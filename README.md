@@ -10,7 +10,7 @@ O objetivo principal deste projeto é fornecer uma solução eficiente para a au
 
 A seguir, apresentamos a arquitetura do projeto, destacando a integração entre os componentes principais.
 
-![Arquitetura do Projeto](![Projeto-Telegram_page](https://github.com/fabslo/Reposit-rio-Telegram-Project/assets/152207178/2e37d7a9-7e87-407a-9cb8-59d8b964c957)
+![Projeto-Telegram_page](https://github.com/fabslo/Reposit-rio-Telegram-Project/assets/152207178/2e37d7a9-7e87-407a-9cb8-59d8b964c957)
 )
 
 - **Bot do Telegram:** Responsável por coletar dados e enviá-los para o pipeline.
